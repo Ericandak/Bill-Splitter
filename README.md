@@ -20,7 +20,7 @@ A Laravel-based web application that helps friends split bills and track shared 
 
 ## Tech Stack
 
-- **Framework**: Laravel 10.x
+- **Framework**: Laravel 
 - **Database**: MySQL
 - **Frontend**: Bootstrap 5
 - **Authentication**: Laravel Breeze
